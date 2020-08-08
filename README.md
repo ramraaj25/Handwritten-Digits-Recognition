@@ -1,5 +1,9 @@
 # Handwritten Digits Recognition
 
+A simple recognition software that predicts the number that the user drew on the grid using Convolutional Neural Network using TensorFlow.
+
+
+
 ## Requirement
 numpy
 tensorflow
